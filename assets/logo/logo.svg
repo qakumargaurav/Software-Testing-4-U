@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Software Testing 4 U logo">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1d4ed8"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+  <rect x="4" y="4" width="92" height="92" rx="25" fill="url(#g)"/>
+  <path d="M25 31h50v9H25zm0 15h35v8H25zm0 15h27v8H25z" fill="#fff" opacity=".96"/>
+  <circle cx="70" cy="67" r="13" fill="#dbeafe"/>
+  <path d="m64 67 4 4 8-9" fill="none" stroke="#1d4ed8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
